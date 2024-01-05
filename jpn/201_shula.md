@@ -46,9 +46,9 @@ da **es** Sara.
 da **no** Sara.
 = 私はサラ**ではありません**。
 
-mau **es** zou.
+mau **es** hevan.
 = 猫は動物**です**。  
-dom **no** zou.
+dom **no** hevan.
 = 家は動物**ではありません**。  
 
 同じように **mi** と自分を表す言葉を言うことで
