@@ -228,10 +228,10 @@
 **ya, mi Tomas.**
 はい、私はトーマスです。
 
-**sual da e davar?**
+**sual da es davar?**
 彼/彼女/その人は医者ですか?
 
-**ya, da e davar.**
+**ya, da es davar.**
 はい、彼は医者です。
 
 <small>【語源】 **ya** 英語：yeah、マレー語：ya、韓国語：예 (da)、中国語：呀 (ya)</small>
@@ -359,7 +359,7 @@
 **ye es ke?**
 これは何ですか?
 
-**da e mi su telefon.**
+**da es mi su telefon.**
 私の電話です。
 
 **ye es ke su?**
