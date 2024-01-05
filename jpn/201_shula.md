@@ -460,7 +460,7 @@ dom **no** hevan.
 ### 練習の答え
 
 1. sual tu bashe pandunia?
-2. es. mi bashe pandunia.
+2. ya. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. mi no yam kafe.
 5. sual da yam supe?
