@@ -652,18 +652,18 @@
 あなたはどんなジャンルの音楽を聴きますか?
 
 
-### vide <small>見る、～に見える</small>
+### vize <small>見る、～に見える</small>
 
-**mi suka vide tu.**
+**mi suka vize tu.**
 あなたを見るのが好みです。
 
-**to rivide!**
+**to rivize!**
 私はあなたをもう一度見る(=またね!)。
 
-**vide tu a posden!**
+**vize tu a posden!**
 私は明日あなたに会う(=また明日!)。
 
-**mi vide da a preden.**
+**mi vize da a preden.**
 私は昨日彼/彼女/その人に会いました。
 
 
