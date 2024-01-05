@@ -204,12 +204,12 @@ dom **no** hevan.
 **sal! ching side.**
 = こんにちは、おかけになってください。  
 <big>🧒</big>
-**shukra.**
+**shukre.**
 = ありがとうございます。  
 <big>🧓</big>
 **ching yam yo kafe o chai.**
 = コーヒーとお茶、どちらになさいますか。  
-☻: **mi yam yo chai. shukra.**
+☻: **mi yam yo chai. shukre.**
 = お茶をください(ありがとう)。  
 ...  
 <big>🧓</big>
