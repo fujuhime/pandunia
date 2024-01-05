@@ -310,7 +310,7 @@ dom **no** hevan.
 **ching** お願いする、頼む  
 **don** 与える、渡す  
 **shukra** ありがとう  
-**i** と(_and_)  
+**e** と(_and_)  
 **kafe** コーヒー  
 **kamar** 部屋  
 **la** 前述、あの  
@@ -327,7 +327,7 @@ dom **no** hevan.
 2. shef ching da side.
 3. ching yam yo kafe o chai.
 4. mama ching mi safa la kamar.
-5. shef side i yam yo kafe.
+5. shef side e yam yo kafe.
 
 
 --------------------------------------------------------------------------------
@@ -342,7 +342,7 @@ dom **no** hevan.
 = いらっしゃいませ! コーヒーと紅茶どちらになさいますか?  
 ☺: **chai.**
 = お茶を。  
-☻: **i tu?**
+☻: **e tu?**
 = あなたは?  
 ○: **mi no basha pandunia...** 
 = 私はパンドゥニアを話せません…  
