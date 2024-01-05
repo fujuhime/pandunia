@@ -309,7 +309,7 @@ dom **no** hevan.
 **chai** お茶  
 **ching** お願いする、頼む  
 **don** 与える、渡す  
-**shukra** ありがとう  
+**shukre** ありがとう  
 **e** と(_and_)  
 **kafe** コーヒー  
 **kamar** 部屋  
@@ -358,7 +358,7 @@ dom **no** hevan.
 = 彼もスープを飲みますか? <!-- これも原文では「も」と言っていないが補完した。日本語ではスープは飲むものです。タバコも高齢者は飲むと言います(混乱を招くので現在は使われていません) -->  
 ☺: **no yam.**
 = いいえ(=飲みません)  
-☻: **shukra. mi don un chai e un kafe e un supe a pos des minute.**
+☻: **shukre. mi don un chai e un kafe e un supe a pos des minute.**
 = かしこまりました。復唱します。コーヒー1、お茶1、スープ1。10分後にお持ちします。
 
 
