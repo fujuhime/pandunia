@@ -528,7 +528,7 @@ mi ching tu **no** safa la kamar.
 **kupa** コップ、グラス、マグカップ  
 **hali** 空の  
 **ha** 持っている、所持している、所有している  
-**miau** 猫  
+**mau** 猫  
 **vaf** 犬  
 **du** 【数】2
 **siro** ゼロの、【数】0  
@@ -540,9 +540,9 @@ mi ching tu **no** safa la kamar.
 1. da no safa la kamar.
 2. un kupa no hali.
 3. du vaf no yam yo supe.
-4. da no ha vaf e miau. / da ha no vaf e no miau.
+4. da no ha vaf e mau. / da ha no vaf e no mau.
 5. shef yam yo chai ama no kafe.
-6. mama ha no vaf ama du miau.
+6. mama ha no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -659,9 +659,9 @@ mi dap da **a sha**.
 
 時制表現は通常一度言えばすむはずです。時制が変わるか、時制を強調する必要がある場合を除いてそれで問題ありません。
 
-mi **pas** ha un miau.
+mi **pas** ha un mau.
 = 私は**かつて**(1匹の)猫を飼って<u>いました</u>。  
-da hau miau.
+da hau mau.
 = その猫は良い猫でした。 (過去の猫のことを語っているので過去形)  
 mi ha un vaf **a zai**.
 = **今は**(私は1匹の)犬を飼って<u>います</u>。 (話が現在のことに変わっている)
