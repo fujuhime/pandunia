@@ -105,14 +105,14 @@
 どういたしまして。
 
 
-### e <small>有る、並ぶ、です</small>
+### es <small>有る、並ぶ、です</small>
 
 **es**は主語と述語をつなぎます。
 
 **aple es frute.**
 リンゴは果物です。
 
-<small>【語源】**e** スペイン語： es、 フランス語： est。</small>
+<small>【語源】**es** スペイン語： es、 フランス語： est。</small>
 
 
 ### mi <small>私</small>
