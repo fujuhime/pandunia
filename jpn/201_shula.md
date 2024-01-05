@@ -10,10 +10,10 @@
 **tu es ke?**
 = あなたは誰ですか?  
 <big>🧔</big>
-**mi e Yusef. tu e ke?**
+**mi es Yusef. tu es ke?**
 = 私はユセフです。あなたは(誰ですか)?  
 <big>👩</big>
-**mi e Maria. da e ke?**
+**mi es Maria. da es ke?**
 = 私はマリアです。あの人は(誰ですか)?  
 <big>🧔</big>
 **da es mi su doste.**
