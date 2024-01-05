@@ -344,7 +344,7 @@ dom **no** hevan.
 = お茶を。  
 ☻: **e tu?**
 = あなたは?  
-○: **mi no basha pandunia...** 
+○: **mi no bashe pandunia...** 
 = 私はパンドゥニアを話せません…  
 ☻: **yaf! sual da yam yo chai?**
 = すみません。彼もお茶でよろしいでしょうか? <!-- 原文では「も」(英語なら too)とは言っていないが、会話の流れから日本語ではそうするのが普通 -->  
@@ -393,7 +393,7 @@ dom **no** hevan.
 = 先生はコーヒーを飲みますか?  
 **sual papa safa la kamar?**
 = 父は部屋を掃除しますか??  
-**sual Niki basha pandunia?**
+**sual Niki bashe pandunia?**
 = ニキはパンドゥニアを話せますか?
 
 
@@ -443,7 +443,7 @@ dom **no** hevan.
 
 ### 単語リスト
 
-**basha** 話す  
+**bashe** 話す  
 **des** 【数】10  
 **yaf** すみません、ごめんなさい  
 **minute** 【時間】分  
@@ -459,8 +459,8 @@ dom **no** hevan.
 
 ### 練習の答え
 
-1. sual tu basha pandunia?
-2. es. mi basha pandunia.
+1. sual tu bashe pandunia?
+2. es. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. mi no yam kafe.
 5. sual da yam supe?
