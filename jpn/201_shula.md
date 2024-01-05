@@ -640,20 +640,20 @@ Maria e mi su **sha** doste.
 時間内の行動や出来事を語るときにも時制詞を使います。
 動詞の前に単語を置くだけです。
 
-mi **pas** darba da.
+mi **pas** dape da.
 = 私はそれを叩き**ました**。 (過去)  
-mi **zai** darba da.
+mi **zai** dape da.
 = 私はそれを叩い**ています**。 (現在進行)  
-mi **sha** darba da.
+mi **sha** dape da.
 = 私はそれを叩く**でしょう**。 (未来)
 
 **a pas**(過去に) などの長いフレーズを使うことも可能です。
 
-mi dap da **a pas**.
+mi dape da **a pas**.
 = 私は**過去に**それを叩き<u>ました</u>。  
-mi dap da **a zai**.
+mi dape da **a zai**.
 = 私は**現在に**それを叩い<u>ています</u>。  
-mi dap da **a sha**.
+mi dape da **a sha**.
 = 私は**将来に**それを叩く<u>でしょう</u>。
 
 
@@ -693,7 +693,7 @@ da safa la kamar **a pos den**.
 **zai** 現在、今  
 **sha** 未来  
 **pre** 前、昨  
-**dap** 打つ、叩きのめす
+**dape** 打つ、叩きのめす
 **den** 【時間】日
 **festa** 祝う  
 **milke** ミルク
