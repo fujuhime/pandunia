@@ -1,34 +1,34 @@
 
 # 6. 数詞
 
-## Cardinal numbers
+## 基数
 
-| Ones    | Ten and over | 20 and over      | 30 and over      |
+| 1桁    | 10以降 | 20 以降      | 30 以降      |
 |:--------|:-------------|:-----------------|:-----------------|
 | 0 siro  | 10 (un) des  | 20 du des        | 30 tri des       |
 | 1 un    | 11 des un    | 21 du des un     | 31 tri des un    |
 | 2 du    | 12 des du    | 22 du des du     | 32 tri des du    |
 | 3 tri   | 13 des tri   | 23 du des tri    | 33 tri des tri   |
-| 4 chatre| 14 des chatre| 24 du des chatre | 34 tri des chatre|
-| 5 pente | 15 des pente | 25 du des pente  | 35 tri des pente |
-| 6 sixe  | 16 des sixe  | 26 du des sixe   | 36 tri des sixe  |
-| 7 sete  | 17 des sete  | 27 du des sete   | 37 tri des sete  |
-| 8 bate  | 18 des bate  | 28 du des bate   | 38 tri des bate  |
-| 9 nave  | 19 des nave  | 29 du des nave   | 39 tri des nave  |
+| 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
+| 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
+| 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
+| 7 cheti | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
+| 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
+| 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
-| Ones    |  Tens         | Hundreds        | Thousands        |
+| 1桁    |  2桁         | 3桁        | 4桁        |
 |:--------|:-------------|:----------------|:------------------|
 | 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
 | 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
 | 3 tri   | 30 tri des   | 300 tri sento   | 3000 tri kilo     |
-| 4 chatre| 40 chatre des| 400 chatre sento  | 4000 chatre kilo    |
-| 5 pente | 50 pente des | 500 pentesento  | 5000 pentekilo    |
-| 6 sixe  | 60 sixe des  | 600 sixe sento  | 6000 sixe kilo    |
-| 7 sete  | 70 sete  des | 700 sete  sento | 7000 sete  kilo   |
-| 8 bate  | 80 bate des  | 800 bate sento  | 8000 bate kilo    |
-| 9 nave  | 90 nave des  | 900 nave sento  | 9000 nave kilo    |
+| 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
+| 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
+| 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
+| 7 cheti | 70 cheti des | 700 cheti sento | 7000 cheti kilo   |
+| 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
+| 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
-Greater numbers follow the same logic as above.
+これ以降の数も同様の方法でつくられます。
 
 10'000 = un des kilo  
 100'000 = un sento kilo  
@@ -37,11 +37,9 @@ Greater numbers follow the same logic as above.
 100'000'000 = un sento mega  
 1'000'000'000 = un giga
 
-The numerals that are greater than one hundred are borrowed from the
-[International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units) (SI).
-They are used in scientific words in the whole world.
+100 以降の数字は[SI単位系（国際単位系）](https://ja.m.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E5%8D%98%E4%BD%8D%E7%B3%BB)をもとにした語形になっています。この単位系は、世界中のさまざまな言語で、科学用語として取り入れられています。
 
-| Prefix | Symbol | Base 10 | Decimal                        |
+| 接頭辞 | 略記 | 指数表記 | 十進表記                        |
 |:-------|:------:|:-----|----------------------------------:|
 | kilo   | k      | 10³  |                             1'000 |
 | mega   | M      | 10⁶  |                         1'000'000 |
@@ -53,7 +51,7 @@ They are used in scientific words in the whole world.
 | yota   | Y      | 10²⁴ | 1'000'000'000'000'000'000'000'000 |
 
 
-### Cardinal number before noun
+### （名詞に係る）基数詞
 
 数値は数字や他の数詞で表せます。
 それらは修飾する単語または句の前に置かれます。
@@ -66,7 +64,7 @@ They are used in scientific words in the whole world.
 – **3つ**の星  
 **kam** sing
 – **少し**の星  
-**men** sing
+**poli** sing
 – **たくさん**の星
 
 **un** dai kursi
